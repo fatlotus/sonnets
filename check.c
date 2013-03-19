@@ -1,5 +1,6 @@
 /*
  * This code was blatantly plagiarized from Wikipedia.
+ * This comment has been added by SparkleShare!
  */
 
 #include <stdint.h>
